@@ -1,0 +1,11 @@
+beautifulsoup4
+chromadb
+dynaconf
+gpt4all
+langchain
+langchain_community
+langchain-nomic
+langchainhub
+langgraph
+tavily-python
+tiktoken
